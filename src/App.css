@@ -1,4 +1,11 @@
+* {
+  margin: 0;
+  padding: auto;
+  font-size: 1.5rem;
+}
+
 .wrapper {
   background: #000;
   min-height: 100vh;
+  color: rgba(235, 123, 12, 1);
 }
